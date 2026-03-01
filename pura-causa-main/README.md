@@ -90,5 +90,17 @@ El proyecto contiene las siguientes carpetas principales:
 - Crear panel de administración
 
 ---
+---
+
+## Capturas del Proyecto
+
+### Página de Inicio
+![Inicio](imagenes/Inicio.png)
+
+### Cómo Funciona
+![Cómo Funciona](imagenes/como-funciona.png)
+
+### Portal de Experiencias
+![Portal Experiencias](imagenes/portal-experiencias.png)
 
 Este proyecto fue desarrollado como parte del curso Técnico en Programación y Plataformas Digitales.
