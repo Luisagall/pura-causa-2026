@@ -1,73 +1,77 @@
-# Welcome to your Lovable project
+# Pura Causa
 
-## Project info
+## Información General
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+Nombre del proyecto: Pura Causa  
+Nombre del estudiante: Luisa Carranza  
+Fecha: 28 de Febrero de 2026  
+Curso: Técnico en Programación y Plataformas Digitales  
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## Descripción del Proyecto
 
-**Use Lovable**
+“Pausa con propósito” es un proyecto enfocado en promover momentos de pausa consciente dentro de la rutina diaria, no solo como un descanso físico sino como un espacio intencional para reflexionar, reconectar con uno mismo y dar sentido a lo que se hace.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+La idea central es invitar a las personas a detenerse en medio del ritmo acelerado de la vida, reducir el estrés y recuperar claridad mental y emocional. Este tipo de iniciativa busca fomentar el bienestar integral, ayudando a las personas a analizar sus metas, fortalecer su enfoque, renovar su energía y tomar decisiones con mayor conciencia.
 
-Changes made via Lovable will be committed automatically to this repo.
+Generalmente incluye mensajes de reflexión, contenido motivacional o espiritual, y propuestas prácticas como ejercicios de respiración, momentos de introspección o dinámicas de mindfulness que permiten reconectar con los valores personales y el propósito de vida.
 
-**Use your preferred IDE**
+En esencia, el proyecto trata de enseñar que hacer una pausa intencional no es perder tiempo, sino invertirlo en crecimiento personal, equilibrio emocional y dirección consciente.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+---
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## Tecnologías Utilizadas
 
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
+- HTML
+- CSS
+- JavaScript
 - React
-- shadcn-ui
+- Vite
 - Tailwind CSS
+- Git y GitHub
 
-## How can I deploy this project?
+---
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+## Estructura del Proyecto
 
-## Can I connect a custom domain to my Lovable project?
+El proyecto contiene las siguientes carpetas principales:
 
-Yes, you can!
+- src (componentes y lógica principal)
+- public (archivos públicos)
+- package.json (dependencias del proyecto)
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+---
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+## Funcionalidades
+
+- Página principal interactiva
+- Navegación entre secciones
+- Diseño responsivo adaptable a diferentes dispositivos
+- Organización estructurada del código
+- Interfaz moderna y dinámica
+
+---
+
+## Cómo Ejecutar el Proyecto
+
+1. Clonar el repositorio:
+   git clone https://github.com/Luisagall/pura-causa-2026
+
+2. Instalar dependencias:
+   npm install
+
+3. Ejecutar el proyecto:
+   npm run dev
+
+---
+
+## Mejoras Futuras
+
+- Implementar modo oscuro
+- Integrar base de datos
+- Crear panel de administración
+
+---
+
+Este proyecto fue desarrollado como parte del curso Técnico en Programación y Plataformas Digitales.
