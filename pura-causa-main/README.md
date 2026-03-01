@@ -20,7 +20,24 @@ Generalmente incluye mensajes de reflexión, contenido motivacional o espiritual
 En esencia, el proyecto trata de enseñar que hacer una pausa intencional no es perder tiempo, sino invertirlo en crecimiento personal, equilibrio emocional y dirección consciente.
 
 ---
+ ¿Qué hace el proyecto?
 
+El proyecto “Pausa con propósito” es una página web interactiva que ofrece contenido reflexivo, motivacional y práctico para fomentar momentos de pausa consciente en la rutina diaria. Presenta textos, ejercicios e ideas que ayudan a las personas a detenerse, respirar, reflexionar y reconectar con sus valores personales y su propósito de vida.
+
+ ¿Qué problema soluciona?
+
+Este proyecto soluciona el problema de la sobrecarga mental y emocional que muchas personas experimentan por el ritmo acelerado de la vida moderna. Ayuda a reducir el estrés, recuperar claridad mental, mejorar el enfoque y promover el bienestar integral al ofrecer herramientas simples para hacer pausas intencionales y significativas durante el día.
+
+ ¿Para quién está pensado?
+
+El proyecto está pensado para:
+
+✔ Personas que viven con estrés o ansiedad por la rutina
+✔ Estudiantes y trabajadores con jornadas intensas
+✔ Quienes buscan mejorar su bienestar emocional
+✔ Cualquier persona interesada en la reflexividad, mindfulness o crecimiento personal
+
+En resumen, está dirigido al público en general que desea inclusión de momentos de calma y reflexión en su vida diaria.
 ## Tecnologías Utilizadas
 
 - HTML
