@@ -1,8 +1,8 @@
-# Pura Causa
+# Pausa con Próposito
 
 ## Información General
 
-Nombre del proyecto: Pura Causa  
+Nombre del proyecto: Pausa con Próposito
 Nombre del estudiante: Luisa Carranza  
 Fecha: 28 de Febrero de 2026  
 Curso: Técnico en Programación y Plataformas Digitales  
